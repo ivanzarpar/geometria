@@ -1,9 +1,9 @@
 //version inicial
-public abstract class FiguraGeometrica {
+public abstract class FiguraGeometrica_IZP {
 
 	protected String tipoFigura;
 
-	public FiguraGeometrica(String tipoFigura) {
+	public FiguraGeometrica_IZP(String tipoFigura) {
 		super();
 		this.tipoFigura = tipoFigura;
 	}
