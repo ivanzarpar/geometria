@@ -6,7 +6,10 @@ public class Circulo_IZP extends FiguraGeometrica_IZP {
 	
 	public Circulo_IZP(double r, String tipoFigura) {
 		super(tipoFigura);
+		while(radio>=0) {
 		radio = r;
+		}
+		
 	}
 
 	@Override
