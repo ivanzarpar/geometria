@@ -8,7 +8,7 @@ public class Circulotest {
 
 	@Test
 	public void testArea() {
-		Circulo_IZP c=new CirculoIZP(7,"Circulo");
+		Circulo_IZP c=new Circulo_IZP(7,"Circulo");
 		fail("Not yet implemented");
 	}
 
