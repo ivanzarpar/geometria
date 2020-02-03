@@ -1,4 +1,4 @@
-
+//version inicial
 public abstract class FiguraGeometrica {
 
 	protected String tipoFigura;
